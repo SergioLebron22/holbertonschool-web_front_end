@@ -53,7 +53,7 @@ html {
     --nav-item-link-hover: var(--color-primary);
 
     --button-display: inline-block;
-    --button-padding: 1.5rem;
+    --button-padding: 1.5rem 3rem;
     --button-border: 0.2rem solid var(--color-primary);
     --button-color: var(--color-black);
     --button-text-decoration: none;
